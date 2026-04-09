@@ -67,7 +67,6 @@ groups <- sapply(sample_numbers, assign_group)
 # High-contrast, colour-blind-friendly palette
 group_colors <- c(
   "Winter Wheat"  = "#E63946",   # vivid red-coral
-
   "Spring Wheat"  = "#2A9D8F",   # teal-green
   "Spelt"         = "#457B9D"    # steel-blue
 )
